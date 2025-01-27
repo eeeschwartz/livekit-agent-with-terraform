@@ -1,0 +1,12 @@
+.env.local
+venv/
+.DS_Store
+*.hcl
+.trunk_id
+.dispatch_id
+.terraform
+*.template
+*.json
+*.tfvars
+*.tfstate
+*.tfstate.backup
