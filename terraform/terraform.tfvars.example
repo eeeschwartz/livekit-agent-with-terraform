@@ -1,0 +1,11 @@
+twilio_account_sid         = "ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+twilio_api_key             = "SKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+twilio_api_secret          = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+twilio_phone_id            = "PNxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+twilio_trunk_domain        = "example-trunk.pstn.twilio.com"
+twilio_trunk_friendly_name = "Example LiveKit Trunk"
+
+livekit_api_key     = "APIxxxxxxxxxxxxxxx"
+livekit_api_secret  = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+livekit_sip_url     = "sip:example.sip.livekit.cloud;transport=tcp"
+livekit_url         = "wss://example.livekit.cloud"

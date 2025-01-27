@@ -52,8 +52,12 @@ This agent requires a frontend application to communicate with. You can use one 
 ## Terraform automation
 
 Youtube walkthrough of the terraform: https://youtu.be/Igoq98lqZ_M
+
 ```
 cd terraform
+cp terraform.tfvars.example terraform.tfvars
+# edit ^ with your secrets
+
 tf init
 tf apply
 ```
